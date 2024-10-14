@@ -16,7 +16,7 @@
   </p>
   
 ## Deploy do projeto 
-[Clique aqui](https://devalissonoliveira.github.io/maisprati-m1-atv3)
+[Clique aqui](https://devalissonoliveira.github.io/maisprati-m3-atv3)
 
 ## Instruções de entrega
 Estrutura da Página:
